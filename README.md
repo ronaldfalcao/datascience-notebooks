@@ -1,4 +1,4 @@
-# Datascience Notebooks
+# Data Science Notebooks
 
 ## Objetivo
 Esse repositório reúne meus estudos sobre Big Data, Data Science e Machine Learning. Tentei ser o mais claro possível nas minhas explicações, tanto para que eu lembre sobre os tópicos abordados, quanto para que as pessoas possam consultar esse material de forma simples.
