@@ -9,7 +9,7 @@ Espero que esse material possa ajudar alguém.
 
 Bons estudos.
 
-**PS:** Pensei inicialmente em escrever esse material em inglês. Mas ponderei que temos excelentes materiais nesse idioma, e se meu objetivo fosse tentar de alguma forma fosse compartilhar informação o português seria o idioma mais adequado. Abaixo fiz a apresentação em inglês caso algum estrangeiro chegue a ter contato com esse material.
+**PS:** Pensei inicialmente em escrever esse material em inglês. Mas ponderei que temos excelentes conteúdos nesse idioma, e se meu objetivo fosse tentar de alguma forma compartilhar informação o português seria mais adequado. Abaixo fiz a mesma apresentação em inglês caso algum estrangeiro chegue a ter contato com esse material. Caso me sobre algum tempo faço também a tradução do conteúdos dos notebooks.
 
 
 ## Objective
